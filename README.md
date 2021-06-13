@@ -1,3 +1,14 @@
+NOTES TO SELF
+=========
+
+# Flash DD-WRT
+https://dd-wrt.com/support/router-database/?model=LaFonera_2100
+https://wiki.dd-wrt.com/wiki/index.php/LaFonera_Software_Flashing#Step_6_-_Get_the_DD-WRT_binaries
+
+# Flash OpenWRT
+https://openwrt.org/toh/fon/fonera
+
+
 Breakafon
 =========
 
